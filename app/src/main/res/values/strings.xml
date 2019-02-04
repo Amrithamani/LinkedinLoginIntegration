@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinkedinLoginIntegration</string>
+    <string name="string_sign_in_with_linkedin">Sign In with LinkedIn</string>
+    <string name="string_logout">Logout</string>
+    <string name="string_share">Share</string>
+    <string name="string_open_my_profile">Open My Profile</string>
+    <string name="string_open_others_profile">Open Others Profile</string>
+</resources>
